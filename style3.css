@@ -1,0 +1,258 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: 'Merriweather', serif;
+}
+.container{
+    width: 70%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: auto;
+    margin-top: 20px;
+    align-items: center;
+}
+.three a{
+    color: #e30a5e;
+    text-decoration: none;
+}
+.box{
+    width: 70%;
+    margin: auto;
+    height: 430px;
+    border-radius: 10px;
+    background-image: url(../clubsoda/images/1img.jpg);
+    display: flex;
+    flex-direction: column;
+    justify-content: end;
+    align-items: center;
+}
+.box a{
+    color: #e30a5e;
+}
+.five{
+    background-color: white;
+    height: 100px;
+    width: 530px;
+    text-align: center;
+}
+.content{
+    width: 70%;
+    margin: auto;
+    margin-top: 60px;
+    font-family: 'Archivo', sans-serif;
+    color: #756F84;
+    font-size: 14px;
+}
+.freebutton{
+    margin: auto;
+    width: 70%;
+   
+}
+.freebutton button{
+    border: none;
+    background-color: #e30a5e;
+    text-decoration: none;
+    color: white;
+    height: 53px;
+    width: 270px;
+    border-radius: 5px;
+
+}
+.freebutton button a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+
+}
+.head{
+    margin: auto;
+    width: 70%;
+
+}
+.head-start{
+    font-family: 'Archivo', sans-serif;
+    font-size: 22px;
+
+}
+.head-end{
+    line-height: 28px;
+    font-size: 20px;
+    color: #756F84;
+}
+.head-end a{
+    color: #e30a5e;
+}
+.coloms{
+    display: flex;
+    margin: auto;
+    width: 70%;
+    justify-content: space-between; 
+    margin-bottom: 20px;
+}
+.change-head,.choice-head,.connection-head{
+    font-family: 'Archivo', sans-serif;
+}
+.choice-content,.change-content,.connection-content{
+    font-size: 19px;
+    color: #756F84;
+    line-height: 1.8em;
+}
+
+.connection-icon button,.choice-icon button,.change-icon button{
+    border: none;
+    background-color: #e30a5e;
+    text-decoration: none;
+    color: white;
+    height: 53px;
+    width: 270px;
+    border-radius: 5px;
+
+}
+button:hover{
+    background-color: #520c27;
+}
+button{
+    transition: 0.5s;
+}
+.connection-icon button a,.choice-icon button a,.change-icon button a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+.main-bag{
+    background-color: #E0E0E0;   
+}
+.main{
+    padding-top: 10px;
+    width: 70%;
+    margin: auto;
+      
+}
+.ins{
+   
+    font-size: 16px;
+    font-family: 'Archivo', sans-serif;
+
+}
+.grp{
+    display: flex;
+    flex-direction: row;
+}
+
+.discover{
+    font-size: 19px;
+    color: #756F84;
+    line-height: 1.8em;
+    width: 223px;
+}
+.read button{
+    border: none;
+    background-color: #e30a5e;
+    text-decoration: none;
+    color: white;
+    height: 53px;
+    width: 270px;
+    border-radius: 5px;
+}
+.read button a{
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.club, .bcorp, .taking{
+    /* width: 250px; */
+    background-color: white;
+    margin: 8px;
+    border-radius: 7px;
+}
+.sent{
+    text-align: center;
+    font-size: 24px;
+    font-weight: bold;
+    color: #e30a5e;
+}
+.pho img{
+    margin-bottom: 20px;
+    border-radius: 7px;
+}
+.next{
+display: flex;
+justify-content: end;    
+}
+.footer-back{
+    background-color:#465f63 ;
+    height: 300px;
+}
+.footer{
+    width: 70%;
+    margin: auto;
+}
+.footer-main{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-top: 40px;
+}
+.footer-main-first{
+    width: 400px;
+}
+
+.x ul{
+    padding: 0;
+    margin: 0;
+
+}
+.point{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.x ul li{
+    list-style: none;
+    margin-bottom: 10px;
+}
+.x ul li a{
+    color: white;
+    text-decoration: none;
+    font-size: 17px;
+}
+.link a img{
+    margin-left: 316px;
+}
+.subscribe{
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+.sub{
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    flex-direction: column;
+}
+.subscribe button{
+   
+    border: none;
+    background-color: #e30a5e;
+    text-decoration: none;
+    color: white;
+    height: 53px;
+    width: 380px;
+    
+}
+.sub .subscribe a{
+    color: white;
+    text-decoration: none;
+    font-size: 15px;
+}
+.word{
+    font-size: 17px;
+    color: white;
+    width: 380px;
+}
+
+
